@@ -1,0 +1,184 @@
+@charset "utf-8";
+/* CSS Document */
+.inputVerify{ width:170px; height:21px; border:1px solid #CCCCCC;}
+.inputCode{ width:80px; height:21px; border:1px solid #CCCCCC;}
+.btn_green{}
+
+.resultBtn{height:25px; line-height:25px; color:#FFFFFF; width:42px; text-align:center;background:#2EAFBB; border-radius:4px; border:none; cursor:pointer; font-family:"Helvetica Neue",Helvetica,Verdana,Arial,sans-serif;}
+.resultBtn:hover{ opacity:0.7; text-decoration:none;}
+.inputtoEmail{ border:1px solid #CCCCCC; width:230px; height:25px;line-height: 25px;}
+.zxstitle1,.gktitle1,.gzhktitle1,.gnzdtitle1{font-size:24px;}
+.zxstitle2,.gktitle2,.gzhktitle2,.gnzdtitle2{font-size:22px;}
+.superof {font-family: "Monotype Corsiva";font-size: 20px;font-weight: 700}
+.cj-page-title .zxstitle1,.cj-page-title .gktitle1,.cj-page-title .gzhktitle1,.cj-page-title .gnzdtitle1{font-size:16px;}
+.cj-page-title .zxstitle2,.cj-page-title .gktitle2,.cj-page-title .gzhktitle2,.cj-page-title .gnzdtitle2{font-size:14px;}
+.cj-page-title .superof {font-family: "Monotype Corsiva";font-size: 14px;}
+/*for cheqc*/
+.cheqc_bg {
+	background: url(https://xlrz2.chsi.com.cn/images/bgpublic/gngdbgen_1.jpg) no-repeat 0 0;
+	width: 543px;
+	height: 778px;
+	margin: 0 auto;
+	position:relative;
+	color:#333333;
+}
+.cheqc_qrcodediv {
+	top: 107px;
+	left: 420px;
+	position:absolute;
+}
+.cheqc_headdiv {
+	display: block;
+	height: 244px;
+	width: 543px;
+	margin: 0 auto;
+}
+.cheqc_bgbh{ padding-left:392px; font-family:"Calibri"; font-size:16px; height:16px; line-height:16px;}
+.cheqc_zsbh{padding-left:410px; font-family:"Calibri"; font-size:13px; height:14px; line-height:14px;}
+.cheqc_bgnr {
+	width:407px;
+	margin:20px auto 0 auto;
+	font-size: 13px;
+	font-family: "Calibri";
+	color:#333333;
+	text-align: justify;
+	text-justify: inter-ideograph;
+	letter-spacing: 0;
+	line-height: 24px;
+}
+.cheqc_bgnr p {
+	margin: 0;
+	text-indent:0;
+}
+/*for chesat*/
+.chesat_bgbackground{
+    background: url(https://t2.chei.com.cn/xlrz/images/bgpublic/gkcjdbg_en_html.jpg) no-repeat 0 0;
+    width: 543px;
+    height:778px;
+    margin:0 auto;
+	font-family: "Calibri";
+	font-size:13px;
+	line-height:24px;
+	color:#333333;
+	display:block;
+	position:relative;
+}
+.chesat_headdiv {
+    display: block;
+    height: 120px;
+}
+.chesat_qrcodediv{
+    top: 110px;
+    left: 410px;
+    position:absolute;
+}
+.chesat_title {
+	text-align: center;
+	line-height:1.4;
+}
+.chesat_noanddate{ position:absolute; left:315px; top:211px;}
+.chesat_zsbh{font-size:16px; font-weight:bold;}
+.chesat_contentdiv {
+    display: block;
+	padding:20px 65px 0 65px;
+	text-align: justify;
+	text-justify: inter-ideograph;
+	letter-spacing: 0;
+}
+.chesat_bgnr p{
+    margin:0;
+	text-indent:0;
+}
+#chesat_bigReport{ clear:both; position:relative;}
+#chesat_loading{ position:absolute; left:0; top:0; background:#FFFFFF; width:646px; text-align:center; display:none;}
+.chesat_scoreReportImgs{display:none;}
+
+/*for cncees*/
+#cncees_bigReport{ clear:both; position:relative;}
+#cncees_loading{ position:absolute; left:0; top:0; background:#FFFFFF; width:646px; text-align:center; display:none;}
+.cncees_scoreReportImgs{display:none;}
+.cncees_bgbackground{
+    background: url(https://t2.chei.com.cn/xlrz/images/bgpublic/gkcjdbg_en_html.jpg) no-repeat 0 0;
+    width: 543px;
+    height:778px;
+    margin:0 auto;
+	font-family: "Calibri";
+	font-size:12px;
+	line-height:20px;
+	color:#333333;
+	position:relative;
+}
+.cncees_qrcodediv{
+    top: 110px;
+    left: 400px;
+	position:absolute;
+}
+.cncees_noanddate{ position:absolute; left:314px; top:200px;}
+.cncees_headdiv{display: block;height: 115px;}
+.cncees_zsbh{font-size:16px; font-weight:bold;}
+.cncees_contentdiv {padding:65px 65px 0 65px;text-align: justify;text-justify: inter-ideograph;letter-spacing: 0;}
+.cncees_clearF{ clear:both; display:block;}
+.cncees_title {text-align: center;line-height:1.4;}
+.subjectspan {
+	display: block;
+	float: left;
+	width: 210px;
+}
+.scorespan {
+	display: block;
+	float: left;
+	width: 120px;
+	text-align: center;
+}
+.fullscorespan {
+	display: block;
+	float: left;
+	width: 80px;
+	text-align: center;
+}
+/*for cseqc*/
+.cseqc_bgbackground{
+    background: url(https://t2.chei.com.cn/xlrz/images/bgpublic/gkcjdbg_en_html.jpg) no-repeat 0 0;
+    width: 543px;
+    height:778px;
+    margin:0 auto;
+	font-family: "Calibri";
+	font-size:13px;
+	line-height:20px;
+	color:#333333;
+	position:relative;
+}
+.cseqc_qrcodediv{
+    top: 113px;
+    left: 395px;
+	position:absolute;
+}
+.cseqc_noanddate{ position:absolute; left:314px; top:215px;}
+.cseqc_headdiv{display: block;height: 125px;}
+.cseqc_zsbh{font-size:16px; font-weight:bold;}
+.cseqc_contentdiv {padding:75px 65px 0 65px;text-align: justify;text-justify: inter-ideograph;letter-spacing: 0;}
+.cseqc_title {text-align: center;line-height:1.4;}
+.cseqc_p{ margin-bottom:10px;}
+.separatespan{ padding-right:15px;}
+.scoreImgSize{ width:694px;}
+
+/*for new*/
+.reportBg{width:646px; height:876px; margin:0 auto; padding-top:50px; background:url(https://t3.chei.com.cn/xlrz/images/bgpublic/zxs2_en_html.jpg) no-repeat 0 0; color:#333333; font-size:14px; line-height:24px; font-family: "Calibri"; position:relative;}
+.report-header{ width:530px; font-size:12px; line-height:22px; margin:0 auto 10px auto;}
+.report-body{ width:646px; margin:0 auto; position:relative;}
+.report-title{ line-height:28px; text-align:center; margin-bottom:10px;}
+.report-title .superof {font-family: "Monotype Corsiva";font-size: 18px;}
+.report-title .gktitle1{font-size:24px;}
+.report-title .gktitle2{font-size:20px;}
+.report-qrcodediv{ position:absolute; top:0; right:58px; width:60px; height:60px; font-size:12px; line-height:24px; overflow:hidden;}
+.report-noanddate{display: inline;float: right;margin-bottom: 10px;margin-right: 58px;}
+.report-noanddate-zsbh{font-size:16px; font-weight:bold;}
+.report-contentdiv{ width:530px; margin:0 auto;}
+.report-score{clear:both; display:block;}
+.score-subject{display: block;float: left;width: 260px;}
+.score-achieved{display: block;float: left;width: 150px; text-align:center;}
+.score-full{display: block;float: left;width:120px; text-align:center;}
+.report-append{clear:both; display:block; font-size:12px; line-height:22px;}
+.report-p{ margin-bottom:10px;}
+.report-footer{width: 530px; position: absolute; left: 58px; top: 828px; font-size: 12px; line-height: 22px;}
+.calibriBold{font-family:"Calibri Bold";}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>学信网单</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标PC" transform="translate(-177.000000, -120.000000)">
+            <g id="学信网单" transform="translate(177.000000, 120.000000)">
+                <rect id="矩形备份" x="0" y="0" width="50" height="50"></rect>
+                <circle id="椭圆形" stroke="#E6E6E6" fill="#FFFFFF" cx="25" cy="25" r="24.5"></circle>
+                <g id="学信档案logo" transform="translate(8.000000, 13.000000)">
+                    <path d="M6.867,4 C7.2072,5.03592346 7.3938,6.13896308 7.3938,7.2851905 C7.3938,8.30127092 7.2462,9.28291782 6.9762,10.2155407 C5.8422,14.488798 3.3606,18.2344637 0,21.0002334 L27,21.0002334 L26.9178,15.2603421 L6.867,4 Z" id="Fill-1" fill="#4285F4"></path>
+                    <path d="M12.8903158,2 C12.7976842,9.66949179 9.48031579,16.5010563 4,21.0002341 L26,21.0002341 L26,9.77247726 L12.8903158,2 Z" id="Fill-3" fill="#FBBC05"></path>
+                    <path d="M35,9.20449337 L19.0236667,0 C17.9888333,8.54298786 13.5024167,16.0208002 7,21.000175 L30.4523333,21.000175 C33.278,17.8921491 35,13.762698 35,9.23191027 L35,9.20449337 Z" id="Fill-5" fill="#25B887"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

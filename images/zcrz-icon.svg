@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>chenggong</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="学历认证查询-结果" transform="translate(-549.000000, -1492.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="专此认证" transform="translate(0.000000, 1460.000000)">
+                <g id="编组-5" transform="translate(165.000000, 30.000000)">
+                    <g id="chenggong" transform="translate(384.000000, 2.000000)">
+                        <path d="M18,36 C8.0588745,36 0,27.9411255 0,18 C0,8.0588745 8.0588745,0 18,0 C27.9411255,0 36,8.0588745 36,18 C36,27.9411255 27.9411255,36 18,36 Z M16.2565714,22.7391429 L11.1085714,17.5294286 L7.7142857,20.772 C10.1828571,22.1014286 13.6414286,24.5262857 16.6037143,28.2857143 C18.6968571,24.3514286 25.1485714,16.3028571 28.2857143,15.5828571 C27.7791429,13.554 27.4937143,9.74571427 28.2857143,7.7142857 C21.852,11.9571428 16.2565714,22.7391428 16.2565714,22.7391429 Z" id="形状"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

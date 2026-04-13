@@ -1,0 +1,29 @@
+@charset "utf-8";
+@font-face {
+    font-family: 'Calibri Bold';
+    src: url('calibrib/calibrib.eot');
+    /* IE9*/
+    src: url('calibrib/calibrib.eot?#iefix') format('embedded-opentype'),
+    url('calibrib/calibrib.woff') format('woff'),
+    url('calibrib/calibrib.ttf') format('truetype'),
+    url('calibrib/calibrib.svg#calibrib/calibrib') format('svg');
+}
+@font-face {
+    font-family: 'Calibri';
+    src: url('calibri/calibri.eot');
+    /* IE9*/
+    src: url('calibri/calibri.eot?#iefix') format('embedded-opentype'),
+    url('calibri/calibri.woff') format('woff'),
+    url('calibri/calibri.ttf') format('truetype'),
+    url('calibri/calibri.svg#calibri/calibri') format('svg');
+}
+@font-face {
+    font-family: "simkai";
+    src: url('simkai/simkai.eot');/* IE9*/
+    src: url("simkai/simkai.eot?#iefix") format("embedded-opentype"),
+         url("simkai/simkai.woff") format("woff"),
+         url("simkai/simkai.ttf") format("truetype"),         
+         url("simkai/simkai.svg#simkai") format("svg");
+    font-weight: normal;
+    font-style: normal;
+  }
